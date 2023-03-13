@@ -1,21 +1,12 @@
+asgiref==3.5.2
 brotlipy==0.7.0
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
-cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_62rp5d8fd4/croots/recipe/cffi_1659598655556/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-conda==4.14.0
-conda-package-handling @ file:///opt/concourse/worker/volumes/live/bca0bf24-f9cb-457d-4f6e-bfa0e136cd79/volume/conda-package-handling_1649105801900/work
-cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b470f7cb-c8f1-42c9-b84f-23789ea77e7c9difcqh4/croots/recipe/cryptography_1652101134392/work
 cytoolz==0.11.0
+Django==4.1.2
+django-cors-headers==3.13.0
+djangorestframework==3.14.0
 gunicorn==20.1.0
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+Pillow==9.2.0
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
-PySocks @ file:///Users/builder/ci_310/pysocks_1642536366386/work
-requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_516b78ce-034d-4395-b9b5-1d78c2847384qtnol99l/croots/recipe/requests_1657734628886/work
-ruamel-yaml-conda @ file:///Users/builder/ci_310/ruamel_yaml_1642537156360/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
-tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
-urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+pytz==2022.4
+sqlparse==0.4.3
 whitenoise==6.2.0
